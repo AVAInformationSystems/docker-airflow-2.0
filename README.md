@@ -1,7 +1,7 @@
 # Docker Airflow 2.0
 
 This repository contains Docker and Docker Compose files for building and 
-running Apache Airflow 2.0
+running Apache Airflow 2.0 as described in our [Medium article](https://medium.com/ava-information/airflow-2-0-docker-development-setup-docker-compose-postgresql-7911f553b42b).
 
 ## Overview
 ![Docker Airflow 2.0 architecture](https://miro.medium.com/max/1100/1*pAUdLzHgRMKFw2gVuasyCA.png)
